@@ -12,4 +12,4 @@ With these scripts you can create a compressed Image from an running RPi System.
 - pishrink.sh
   After the backup is done, run this script to shrink the image.
 
-- gl & hf -
+gl & hf
